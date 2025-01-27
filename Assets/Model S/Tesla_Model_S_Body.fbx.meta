@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: bdbdce64c0325314aab9f55bbbae1145
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_5_door_glass
+    second: {fileID: 2100000, guid: bd45484347b866a40bcb2b81e9d399d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_black_brake_caliper
+    second: {fileID: 2100000, guid: 31d3b11b3c747c148ba608c6be3c27c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_black_chrome
+    second: {fileID: 2100000, guid: 4b67395514e3f424e8254b9f4d203bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_body_silver
+    second: {fileID: 2100000, guid: 7e6122cc9b1e98e40b62a989a1cec39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_camera_lens
+    second: {fileID: 2100000, guid: 282204c9b0e383944a6bde56fec294e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_car_plate_number
+    second: {fileID: 2100000, guid: d2e43527da5d79e49ba0c74ca1f65bc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_carbon
+    second: {fileID: 2100000, guid: b434d6c647c7ad648957a334d44d8c96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_central_pillar
+    second: {fileID: 2100000, guid: 2baec52cd73d63644b5010f7c4e6030c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_chrome
+    second: {fileID: 2100000, guid: e52e6db9d407a7a4285e28e57b89191b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_clear_glass
+    second: {fileID: 2100000, guid: b188caab33c688348a8f21dfe8d53671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_deep_black
+    second: {fileID: 2100000, guid: a04dc0f07650d794cb643ad084b1d890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_front_door_triangle_glass
+    second: {fileID: 2100000, guid: 8d7ea5d7f93414c4f9a1c12dec5c0d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_front_matte_red_glass
+    second: {fileID: 2100000, guid: 14e7f3faa1fca82458883da6ce9a4b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_front_matte_white_glass
+    second: {fileID: 2100000, guid: 9958d07ea28ce2844ae5121a53815b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_gloss_black
+    second: {fileID: 2100000, guid: 65717e7911af3ff4abff19914d9627e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_led_light
+    second: {fileID: 2100000, guid: 3b9f651b4a066f742ae5580ac5c34e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_lens_glass
+    second: {fileID: 2100000, guid: a26b105ae1244314f8f281cf3d8bb4e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_matte_black
+    second: {fileID: 2100000, guid: 4b2543d8de4556f459e6a5b56abfd126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_radiator
+    second: {fileID: 2100000, guid: b6f50a8946f48de419adde5a78804d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_red_clear_glass
+    second: {fileID: 2100000, guid: 7190b9aa2b780ec489441043254960cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_red_rhombus_glass
+    second: {fileID: 2100000, guid: 05ecca9839f9cb04e9bb665602ac7445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_ribbed_glass
+    second: {fileID: 2100000, guid: fc345533b1d501047b5930a1bd2ec11b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_side_triangle_glass
+    second: {fileID: 2100000, guid: 9d35757d090b3514bb68052f01e2eb91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_sunroof
+    second: {fileID: 2100000, guid: 78858d673469eb648ae92560e809958a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_tail_light_central_glass
+    second: {fileID: 2100000, guid: 30a260e6cc8cfdd4d86cdd2f490dd6f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_tail_light_glass
+    second: {fileID: 2100000, guid: cec230c059d0c5746a9c669da06eec3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_tail_light_triangle_glass
+    second: {fileID: 2100000, guid: 3674df8a93d65b1499a804a999fe9fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_white_rhombus_glass
+    second: {fileID: 2100000, guid: 00f2db2ea149cf645b3d57a1e369730e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tesla_windshield
+    second: {fileID: 2100000, guid: 7fc6a24e7e361c54f99d3987491df00a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
