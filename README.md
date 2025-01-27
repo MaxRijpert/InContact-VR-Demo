@@ -5,12 +5,12 @@ The VR demo is setup so that the participant wears the VR headset, while the one
 The buttons that control the demo are as follows:
 
 Right controller:
-- Primary Button: Car drives and stops before crosswalk
-- Secondary Button: Car drives and does not stop before the crosswalk
+- Primary Button: Car drives and stops before crosswalk (Or use "P" on Desktop)
+- Secondary Button: Car drives and does not stop before the crosswalk (Or use "U" on Desktop)
 
 Left Controller:
-- Primary Button: Hide/unhide the external communication system on the car
-- Secondary Button: Reset the position of the car to the start
+- Primary Button: Hide/unhide the external communication system on the car (Or use "Y" on Desktop)
+- Secondary Button: Reset the position of the car to the start (Or use "O" on Desktop)
 
 
 NOTE: I made this project without prior experience in Unity, which means the code, filenames and structure can be very messy. There are probably also assets in the project that I ended up not using and have never removed. 
